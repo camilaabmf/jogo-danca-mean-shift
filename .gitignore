@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+print_*.png
+Calibracao HSV_screenshot_*.png

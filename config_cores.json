@@ -1,0 +1,39 @@
+{
+  "verde": {
+    "faixas": [
+      {
+        "min": [
+          40,
+          80,
+          80
+        ],
+        "max": [
+          85,
+          255,
+          255
+        ]
+      }
+    ]
+  },
+  "magenta": {
+    "faixas": [
+      {
+        "min": [
+          140,
+          80,
+          80
+        ],
+        "max": [
+          175,
+          255,
+          255
+        ]
+      }
+    ]
+  },
+  "morfologia": {
+    "tamanho_kernel": 5,
+    "iter_erosao": 1,
+    "iter_dilatacao": 2
+  }
+}
